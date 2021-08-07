@@ -4,6 +4,11 @@
 
 ## Description
 Build the back end for and e-commerce site using and Express.js API to use Sequelize to interact with a MySQL database.
+
+## Walkthrough Video
+https://vimeo.com/584105863
+
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -21,7 +26,7 @@ to manage the back end of an e-commerce site with products
 
 ## Tests
 *The following tests are available for this project:*
-no
+N/A
 
 ## License
 Open
